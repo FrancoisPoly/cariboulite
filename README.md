@@ -39,6 +39,18 @@ cd cariboulite
     install.sh
     ```
 
+5. Build the custom Python library to transmit with OOK
+   ```
+   cd examples/python_wrapper/functions
+   gcc -shared -fPIC -o libcariboulite_radio.so main.c -lcariboulite -lm
+   ```
+   
+6. Run the test transmission (**use an SDR to see if there is a transmission at 900 MHz**)
+   ```
+   cd ..
+   python ./transmission.py
+   ```
+
 The setup script **requires internet connection** and it follows the following automatic steps:
 1. **Dependencies** installation (apt)
 2. **Soapy API tools installation** (SoapySDR and SoapyRemote) - only if they are not currently present in the system. Installation from code.
