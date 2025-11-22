@@ -1,0 +1,4 @@
+Timestamp,Bus_Voltage_V,Bus_Current_A,Battery_Temp_C,OBDH_Temp_C,Panel_Temp_C,Mode,ADCS_Mode,ReactionWheel_Speed_rpm,Sun_Vector_X,Sun_Vector_Y,Sun_Vector_Z
+2025-11-02T12:00:00.000Z,27.1,0.45,12.4,18.7,25.3,Nominal,Detumbling,1500,0.55,-0.32,0.77
+2025-11-02T12:00:10.000Z,27.0,0.46,12.3,18.8,25.4,Nominal,Detumbling,1490,0.56,-0.31,0.77
+2025-11-02T12:00:20.000Z,27.2,0.45,12.2,18.7,25.3,Nominal,SunPointing,1550,0.57,-0.3,0.78

@@ -1,0 +1,44 @@
+[
+  {
+    "Timestamp": "2025-11-02T12:00:00.000Z",
+    "Bus_Voltage_V": 27.1,
+    "Bus_Current_A": 0.45,
+    "Battery_Temp_C": 12.4,
+    "OBDH_Temp_C": 18.7,
+    "Panel_Temp_C": 25.3,
+    "Mode": "Nominal",
+    "ADCS_Mode": "Detumbling",
+    "ReactionWheel_Speed_rpm": 1500,
+    "Sun_Vector_X": 0.55,
+    "Sun_Vector_Y": -0.32,
+    "Sun_Vector_Z": 0.77
+  },
+  {
+    "Timestamp": "2025-11-02T12:00:10.000Z",
+    "Bus_Voltage_V": 27.0,
+    "Bus_Current_A": 0.46,
+    "Battery_Temp_C": 12.3,
+    "OBDH_Temp_C": 18.8,
+    "Panel_Temp_C": 25.4,
+    "Mode": "Nominal",
+    "ADCS_Mode": "Detumbling",
+    "ReactionWheel_Speed_rpm": 1490,
+    "Sun_Vector_X": 0.56,
+    "Sun_Vector_Y": -0.31,
+    "Sun_Vector_Z": 0.77
+  },
+  {
+    "Timestamp": "2025-11-02T12:00:20.000Z",
+    "Bus_Voltage_V": 27.2,
+    "Bus_Current_A": 0.45,
+    "Battery_Temp_C": 12.2,
+    "OBDH_Temp_C": 18.7,
+    "Panel_Temp_C": 25.3,
+    "Mode": "Nominal",
+    "ADCS_Mode": "SunPointing",
+    "ReactionWheel_Speed_rpm": 1550,
+    "Sun_Vector_X": 0.57,
+    "Sun_Vector_Y": -0.30,
+    "Sun_Vector_Z": 0.78
+  }
+]
