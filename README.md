@@ -51,6 +51,8 @@ cd cariboulite
    python ./transmission.py
    ```
 
+**[Please see ```cariboulite/docs/safari``` for auto-generated documentation]**
+
 The setup script **requires internet connection** and it follows the following automatic steps:
 1. **Dependencies** installation (apt)
 2. **Soapy API tools installation** (SoapySDR and SoapyRemote) - only if they are not currently present in the system. Installation from code.
