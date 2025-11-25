@@ -72,7 +72,7 @@ print("----------------\n")
 
 transmit(
     sample_rate = 4e6,
-    tx_freq = 868e6,
+    tx_freq = 900e6,
     tx_bw = 1e6,
     tx_power = 0,
     filepath = "./info_to_send/bitstream.txt"
